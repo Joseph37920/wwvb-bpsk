@@ -7,7 +7,7 @@ components and the MF10 "switched capacitor filters" as the IF. The IF frequency
 is at 2500 Hz. The device is controlled by a PIC P18F2620 and has a display for
 the current time (UT and Date) and outputs for 1Mhz and 2Mhz frequencies controlled
 by the WWVB carrier. There is jitter in the outputs but when compared with a
-local Rubidum Frequency standared the output signal have a good long term
+local Rubidum Frequency standard the output signal have a good long term
 accuracy.
 Photos and schematics as well as documents about the circuits and lots of
 waveform photos are provided. The program will have to be compiled using
